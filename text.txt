@@ -1,0 +1,9 @@
+Image Filtering and Enhancement: 
+Discover various image filtering techniques,
+
+including Gaussian blur, edge detection, and sharpening.
+
+Dive into histogram equalization and other methods for image enhancement 
+
+
+Feature Detection and Description: 
